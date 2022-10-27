@@ -22,7 +22,7 @@ public class Main {
 		 System.out.println("--------------------------------------------");
 
 		
-		 Elevator elv=new  Elevator(dest_floor);
+		 Elevator elv = new  Elevator(dest_floor);
 
 		
 	}
